@@ -7,7 +7,7 @@ from cnnClassifier.entity.config_entity import PrepareCallbacksConfig
 
 
 
-class PrepareCallback:
+class PrepareCallbacks:
     def __init__(self, config: PrepareCallbacksConfig):
         self.config = config
 
